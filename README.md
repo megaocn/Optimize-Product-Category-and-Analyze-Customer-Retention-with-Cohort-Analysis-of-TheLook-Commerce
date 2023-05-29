@@ -7,7 +7,7 @@ The project has been done for SQL Individual Assignment by RevoU. Inspired by da
 Based on the business problem about potential crisis in 2023, the management tends to deprioritized some categories faced the lowest revenue and profit growth. From the data exploration and through the BCG Matrix, I found that socks is the category that need to be deprioritized due to low market growth (9.85%) and low market share (1%). It also needs collaboration with other teams, such as logistics team, product team, engineer team, and business team to increase customer retention rate (bad retention rate, only 3% - 11% in 2022) where our retention rate is highly decreased in the first month (1) after first purchase month (0).
 
 ## Deck Link
-[Optimize Product Category and Analyze Customer Retention with Cohort Analysis of TheLook Commerce](https://drive.google.com/drive/folders/1tDtmRv7WIxSUpUx0X_VbkTc8XwNTiOgz)
+[Optimize Product Category and Analyze Customer Retention with Cohort Analysis of TheLook Commerce](https://drive.google.com/file/d/1t7Fb4KL3yNHIdwjeiZlvbCqJoY2m6rRe/view?usp=sharing)
 
 ## Project Methodology
 1. Connect datasets
